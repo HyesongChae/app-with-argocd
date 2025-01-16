@@ -1,0 +1,5 @@
+file/repository/StudentRepository.class
+file/entity/Student.class
+file/controller/k8sController.class
+file/Step16S3FileTApplication.class
+file/service/StudentService.class
