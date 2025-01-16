@@ -14,7 +14,7 @@ spec:
   storageClassName: db-storage
   hostPath:
     path: /home/ubuntu/advanced/cicd/data
----
+
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
